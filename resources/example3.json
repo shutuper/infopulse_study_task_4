@@ -1,0 +1,27 @@
+{"menu": {
+  "header": "SVG_Viewer",
+  "items": [
+    {"id": "Open"},
+    {"id": "OpenNew", "label": "Open_New"},
+    null,
+    {"id": "ZoomIn", "label": "Zoom_In"},
+    {"id": "ZoomOut", "label": "Zoom_Out"},
+    {"id": "OriginalView", "label": "Original_View"},
+    null,
+    {"id": "Quality"},
+    {"id": "Pause"},
+    {"id": "Mute"},
+    null,
+    {"id": "Find", "label": "Find..."},
+    {"id": "FindAgain", "label": "Find_Again"},
+    {"id": "Copy"},
+    {"id": "CopyAgain", "label": "Copy_Again"},
+    {"id": "CopySVG", "label": "Copy_SVG"},
+    {"id": "ViewSVG", "label": "View_SVG"},
+    {"id": "ViewSource", "label": "View_Source"},
+    {"id": "SaveAs", "label": "Save_As"},
+    null,
+    {"id": "Help"},
+    {"id": "About", "label": "Abou_Adobe_CVG_Viewer..."}
+  ]
+}}
